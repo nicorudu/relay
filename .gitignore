@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ai-relay-handoff.md
+.ai-relay-checkpoints/
+/Relay 2.app/Contents/MacOS/
+/Relay 2.app/Contents/_CodeSignature/
+/Relay 2.app/Contents/Resources/menu.js
+/Relay.app/
+/Relay-prototype/
+/*.zip
